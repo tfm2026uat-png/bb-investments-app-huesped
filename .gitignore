@@ -1,0 +1,8 @@
+# Entorno virtual (se reinstala con requirements.txt)
+.venv/
+# Archivos del sistema y de Python
+.DS_Store
+__pycache__/
+*.pyc
+# Configuración local de Claude
+.claude/
