@@ -1,0 +1,3 @@
+# Le dice a Databricks Apps cómo arrancar la app (Streamlit).
+# Databricks pone el puerto y la dirección automáticamente.
+command: ["streamlit", "run", "app.py"]
